@@ -294,7 +294,7 @@
                         <li>registration@mlcscz.co.zw
                         </li>
                         <li>Phone: +263 (0) 777115904/ +263 (0) 779980801 </li>
-                        <li>AAddress: 71 Suffolk Rd, Avondale West, Harare</li>
+                        <li>Address: 71 Suffolk Rd, Avondale West, Harare</li>
                     </ul>
                 </div>
                 <div>
