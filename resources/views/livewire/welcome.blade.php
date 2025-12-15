@@ -146,7 +146,7 @@
                 <p class="text-gray-600 mt-4 max-w-2xl mx-auto">Use the following bank accounts for payments and registration fees</p>
             </div>
             
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
                 <!-- Standard Chartered Bank -->
                 <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition duration-300 border border-gray-200">
                     <div class="flex items-center gap-3 mb-4">
@@ -167,15 +167,13 @@
                             <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
                         </div>
                         <div>
-                            <span class="text-gray-500 font-medium">Currencu:</span>
+                            <span class="text-gray-500 font-medium">Currency:</span>
                             <p class="text-gray-800 font-semibold mt-1 text-lg">ZWG</p>
                         </div>
-                        <div>
-                            <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                        <div>                            
                                 <span class="text-gray-500 font-medium">Account Number:</span>
                                 <p class="text-gray-800 font-semibold mt-1 text-lg">21576611145</p>
-                            </div></p>
+                         
                         </div>
                     </div>
                 </div>
@@ -199,15 +197,14 @@
                             <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
                         </div>
                         <div>
-                            <span class="text-gray-500 font-medium">Currencu:</span>
+                            <span class="text-gray-500 font-medium">Currency:</span>
                             <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
                         </div>
                         <div>
-                            <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                            
                                 <span class="text-gray-500 font-medium">Account Number:</span>
                                 <p class="text-gray-800 font-semibold mt-1 text-lg">21573786246</p>
-                            </div></p>
+                           
                         </div>
                     </div>
                 </div>
@@ -235,11 +232,10 @@
                             <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
                         </div>
                         <div>
-                            <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                          
                                 <span class="text-gray-500 font-medium">Account Number:</span>
                                 <p class="text-gray-800 font-semibold mt-1 text-lg">260207806</p>
-                            </div></p>
+                           
                         </div>
                     </div>
                 </div>
@@ -266,11 +262,10 @@
                             <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
                         </div>
                         <div>
-                            <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                          
                                 <span class="text-gray-500 font-medium">Account Number:</span>
                                 <p class="text-gray-800 font-semibold mt-1 text-lg">260121154</p>
-                            </div></p>
+                            </div>
                         </div>
                     </div>
                 </div>
