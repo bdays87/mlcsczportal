@@ -286,7 +286,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div>
                     <h3 class="text-xl font-semibold mb-4">{{ config('app.title') }}</h3>
-                    <p class="text-white">To be the leading regulatory authority for health practitioners.</p>
+                    <p class="text-white">To be an innovative global leader  in medical laboratory practice regulation by 2030</p>
                 </div>
                 <div>
                     <h3 class="text-xl font-semibold mb-4">Contact Us</h3>
