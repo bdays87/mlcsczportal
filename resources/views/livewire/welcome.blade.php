@@ -265,7 +265,7 @@
                           
                                 <span class="text-gray-500 font-medium">Account Number:</span>
                                 <p class="text-gray-800 font-semibold mt-1 text-lg">260121154</p>
-                            </div>
+                            
                         </div>
                     </div>
                 </div>
