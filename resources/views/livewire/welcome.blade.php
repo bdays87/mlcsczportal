@@ -86,7 +86,7 @@
                 <p class="text-gray-600 mt-4 max-w-2xl mx-auto">Complete these steps to register as a certified practitioner</p>
             </div>
             
-            <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-8">
+            <div class="grid grid-cols-1 md:grid-cols-3 lg:grid-cols-5 gap-8">
                 <!-- Step 1: Account Creation -->
                 <div class="bg-blue-50 rounded-xl p-6 text-center transform transition duration-300 hover:shadow-lg hover:-translate-y-1">
                     <div class="bg-green-600 text-white w-12 h-12 rounded-full flex items-center justify-center mx-auto mb-4">
@@ -155,83 +155,128 @@
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                             </svg>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-800">Standard Chartered Bank</h3>
+                        <h3 class="text-xl font-bold text-gray-800">FIRST CAPITAL CORPORATE CURRENT ACCOUNTS</h3>
                     </div>
                     <div class="space-y-3 text-sm">
                         <div>
                             <span class="text-gray-500 font-medium">Account Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Allied Health Practitioners Council</p>
+                            <p class="text-gray-800 font-semibold mt-1">Medical Laboratory And Clinical Scientists Council Of Zimbabwe</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Branch Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Avondale</p>
+                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Currencu:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg">ZWG</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg">0100209676900</p>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                                <span class="text-gray-500 font-medium">Account Number:</span>
+                                <p class="text-gray-800 font-semibold mt-1 text-lg">21576611145</p>
+                            </div></p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition duration-300 border border-gray-200">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="bg-blue-100 p-3 rounded-lg">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-800">FIRST CAPITAL CORPORATE CURRENT ACCOUNTS</h3>
+                    </div>
+                    <div class="space-y-3 text-sm">
+                        <div>
+                            <span class="text-gray-500 font-medium">Account Name:</span>
+                            <p class="text-gray-800 font-semibold mt-1">Medical Laboratory And Clinical Scientists Council Of Zimbabwe</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Branch Name:</span>
+                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Currencu:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Account Number:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                                <span class="text-gray-500 font-medium">Account Number:</span>
+                                <p class="text-gray-800 font-semibold mt-1 text-lg">21573786246</p>
+                            </div></p>
                         </div>
                     </div>
                 </div>
                 
-                <!-- CBZ Bank ZIG Account -->
                 <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition duration-300 border border-gray-200">
                     <div class="flex items-center gap-3 mb-4">
-                        <div class="bg-green-100 p-3 rounded-lg">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-green-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <div class="bg-blue-100 p-3 rounded-lg">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
                             </svg>
                         </div>
-                        <h3 class="text-xl font-bold text-gray-800">CBZ Bank ZIG Account</h3>
+                        <h3 class="text-xl font-bold text-gray-800">NMB CORPORATE CURRENT ACCOUNTS</h3>
                     </div>
                     <div class="space-y-3 text-sm">
                         <div>
                             <span class="text-gray-500 font-medium">Account Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Allied Health Practitioners Council of Zimbabwe</p>
-                        </div>
-                        <div>
-                            <span class="text-gray-500 font-medium">Branch Code:</span>
-                            <p class="text-gray-800 font-semibold mt-1">6103</p>
+                            <p class="text-gray-800 font-semibold mt-1">Medical Laboratory And Clinical Scientists Council Of Zimbabwe</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Branch Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Avondale Branch</p>
+                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Currency:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg">66161383840018</p>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                                <span class="text-gray-500 font-medium">Account Number:</span>
+                                <p class="text-gray-800 font-semibold mt-1 text-lg">260207806</p>
+                            </div></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition duration-300 border border-gray-200">
+                    <div class="flex items-center gap-3 mb-4">
+                        <div class="bg-blue-100 p-3 rounded-lg">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
+                            </svg>
+                        </div>
+                        <h3 class="text-xl font-bold text-gray-800">NMB CORPORATE CURRENT ACCOUNTS</h3>
+                    </div>
+                    <div class="space-y-3 text-sm">
+                        <div>
+                            <span class="text-gray-500 font-medium">Account Name:</span>
+                            <p class="text-gray-800 font-semibold mt-1">Medical Laboratory And Clinical Scientists Council Of Zimbabwe</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Branch Name:</span>
+                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Currency:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg">USD</p>
+                        </div>
+                        <div>
+                            <span class="text-gray-500 font-medium">Account Number:</span>
+                            <p class="text-gray-800 font-semibold mt-1 text-lg"><div>
+                                <span class="text-gray-500 font-medium">Account Number:</span>
+                                <p class="text-gray-800 font-semibold mt-1 text-lg">260121154</p>
+                            </div></p>
                         </div>
                     </div>
                 </div>
                 
-                <!-- CBZ Bank Nostro Account -->
-                <div class="bg-white rounded-xl p-6 shadow-md hover:shadow-lg transition duration-300 border border-gray-200">
-                    <div class="flex items-center gap-3 mb-4">
-                        <div class="bg-purple-100 p-3 rounded-lg">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-purple-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 10h18M7 15h1m4 0h1m-7 4h12a3 3 0 003-3V8a3 3 0 00-3-3H6a3 3 0 00-3 3v8a3 3 0 003 3z" />
-                            </svg>
-                        </div>
-                        <h3 class="text-xl font-bold text-gray-800">CBZ Bank Nostro Account</h3>
-                    </div>
-                    <div class="space-y-3 text-sm">
-                        <div>
-                            <span class="text-gray-500 font-medium">Account Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Allied Health Practitioners Council of Zimbabwe</p>
-                        </div>
-                        <div>
-                            <span class="text-gray-500 font-medium">Branch Code:</span>
-                            <p class="text-gray-800 font-semibold mt-1">6103</p>
-                        </div>
-                        <div>
-                            <span class="text-gray-500 font-medium">Branch Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Avondale Branch</p>
-                        </div>
-                        <div>
-                            <span class="text-gray-500 font-medium">Account Number:</span>
-                            <p class="text-gray-800 font-semibold mt-1 text-lg">66161383840028</p>
-                        </div>
-                    </div>
-                </div>
+              
+              
             </div>
         </div>
     </section>
@@ -251,15 +296,16 @@
                 <div>
                     <h3 class="text-xl font-semibold mb-4">Contact Us</h3>
                     <ul class="space-y-2 text-white">
-                        <li>Email: info@ahpcz.co.zw</li>
-                        <li>Phone: +263 (0)242303027/ +263 (0)772 303 027 </li>
-                        <li>Address: Number 20, Worcester Road Eastlea</li>
+                        <li>registration@mlcscz.co.zw
+                        </li>
+                        <li>Phone: +263 (0) 777115904/ +263 (0) 779980801 </li>
+                        <li>AAddress: 71 Suffolk Rd, Avondale West, Harare</li>
                     </ul>
                 </div>
                 <div>
                     <h3 class="text-xl font-semibold mb-4">Quick Links</h3>
                     <ul class="space-y-2">
-                        <li><a href="https://www.ahpcz.co.zw/about-us-2" class="text-white hover:text-green-200 transition duration-300">About Us</a></li>
+                        <li><a href="hregistration@mlcscz.co.zw" class="text-white hover:text-green-200 transition duration-300">About Us</a></li>
                         <li><a href="https://www.mohcc.gov.zw/" class="text-white hover:text-green-200 transition duration-300">MOHCC</a></li>
                         <li><a href="https://hpa.co.zw/" class="text-white hover:text-green-200 transition duration-300">HPA</a></li>
                        
