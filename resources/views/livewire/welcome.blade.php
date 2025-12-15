@@ -225,7 +225,7 @@
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Branch Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                            <p class="text-gray-800 font-semibold mt-1">Borrowdale</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Currency:</span>
@@ -255,7 +255,7 @@
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Branch Name:</span>
-                            <p class="text-gray-800 font-semibold mt-1">Pearl House</p>
+                            <p class="text-gray-800 font-semibold mt-1">Borrowdale</p>
                         </div>
                         <div>
                             <span class="text-gray-500 font-medium">Currency:</span>
